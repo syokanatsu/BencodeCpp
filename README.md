@@ -1,0 +1,2 @@
+# BencodeCpp
+从开源项目jsoncpp修改而来，适用于对Bencode格式数据的编解码操作，用法类似jsoncpp
